@@ -15,3 +15,11 @@ deps
 .rebar3
 _build/
 _checkouts/
+rebar.lock
+
+#Inputs
+inputs/*
+*/input.txt
+
+#Generated docu
+/doc/*
